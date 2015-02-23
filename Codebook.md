@@ -13,7 +13,7 @@ activity         | Activity name
 subject          | ID  of the subject who performed the activity for each. 
 
 The next 66 columns, from 3 to 68 are the features:
------------------|------------
+------------------------------
 3. tBodyAcc-mean()-X          
 4. tBodyAcc-mean()-Y               
 5. tBodyAcc-std()-Y                
